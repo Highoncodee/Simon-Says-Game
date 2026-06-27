@@ -5,7 +5,6 @@ An interactive Simon Says memory game built using HTML5, CSS3, and JavaScript. T
 🚀 Live Demo
 
 https://highoncodee.github.io/simon-says-game/
-(Update the link after deploying with GitHub Pages.)
 
 📸 Preview
 
